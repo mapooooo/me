@@ -1,0 +1,12 @@
+Colors to be used in this app.
+
+#ff5a57 -> #fccbf0
+#6700a3 -> #e02f75 -> #ff5a57 -> #fccbf0
+#050c38 -> #6700A3 -> #e02f75 -> #ff5a57
+#050c38 -> #1b2062 -> #6700a3 
+#f2e6ee -> #977dff
+#ffccf2 -> #0033ff
+#977dff -> #033ff -> #0600ab
+#0033ff -> #0600ab -> #00033d
+#bdcdcf -> #034c36 -> #003332
+#034c36 -> #003332

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a2c8ec2.css",
+    "main.js": "/static/js/main.e3bd5fd8.js",
+    "static/media/riolima.png": "/static/media/riolima.673eee10d5554e367ca0.png",
+    "static/media/ifact.png": "/static/media/ifact.08973bcf2d69e7330744.png",
+    "static/media/dataminds.svg": "/static/media/dataminds.bf5600364a553829107f39e44a247fbd.svg",
+    "static/media/riskville.svg": "/static/media/riskville.9753509715903be9f4f07a2b723737fe.svg",
+    "static/media/sindico.svg": "/static/media/sindico.948f768dd06205330ee20bd21648d33c.svg",
+    "index.html": "/index.html",
+    "main.6a2c8ec2.css.map": "/static/css/main.6a2c8ec2.css.map",
+    "main.e3bd5fd8.js.map": "/static/js/main.e3bd5fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a2c8ec2.css",
+    "static/js/main.e3bd5fd8.js"
+  ]
+}
